@@ -12,7 +12,7 @@ function projetos(section) {
                 alt="foto de um projeto de uma calculadora."
               />
               <div class="buttons">
-                <a href="https://https://github.com/Rafael-Roela/Calculadora" target="_blank" title="Repositório no Github">
+                <a href="https://github.com/Rafael-Roela/Calculadora" target="_blank" title="Repositório no Github">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
@@ -26,7 +26,7 @@ function projetos(section) {
                     />
                   </svg>
                 </a>
-                <a href="https://https://calculadorasimples.bohr.io" target="_blank" title="Ver Projeto">
+                <a href="https://calculadorasimples.bohr.io" target="_blank" title="Ver Projeto">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
@@ -51,7 +51,7 @@ function projetos(section) {
             <div class="img-wrapper">
               <img src="./assets/images/projects/tela-de-login.png" alt="Imagem do projeto." />
               <div class="buttons">
-                <a href="https://https://github.com/Rafael-Roela/Tela_Login" target="_blank" title="Repositório no Github">
+                <a href="https://github.com/Rafael-Roela/Tela_Login" target="_blank" title="Repositório no Github">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
@@ -65,7 +65,7 @@ function projetos(section) {
                     />
                   </svg>
                 </a>
-                <a href="https://https://tela-login.bohr.io" target="_blank" title="Ver Projeto">
+                <a href="https://tela-login.bohr.io" target="_blank" title="Ver Projeto">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
@@ -88,7 +88,7 @@ function projetos(section) {
             <div class="img-wrapper">
               <img src="./assets/images/projects/tela-de-login-do-facebook.png" alt="Imagem do projeto." />
               <div class="buttons">
-                <a href="https://https://github.com/Rafael-Roela/Facebook" target="_blank" title="Repositório no Github">
+                <a href="https://github.com/Rafael-Roela/Facebook" target="_blank" title="Repositório no Github">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
@@ -102,7 +102,7 @@ function projetos(section) {
                     />
                   </svg>
                 </a>
-                <a href="https://https://telaloginfaceboock.bohr.io" target="_blank" title="Ver Projeto">
+                <a href="https://telaloginfacebook.bohr.io" target="_blank" title="Ver Projeto">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
