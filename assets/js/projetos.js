@@ -117,7 +117,7 @@ function projetos(section) {
                 </a>
               </div>
             </div>
-            <p>Uma tela criativa e simples de login</p>
+            <p>Uma tela criativa e simples de uma representação de um site de filmes</p>
             <p>HTML - CSS - JS</p>
           </div>
           <div class="card">
