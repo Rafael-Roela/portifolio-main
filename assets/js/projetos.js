@@ -184,7 +184,7 @@ function projetos(section) {
                 </a>
               </div>
             </div>
-            <p>Projeto Angulat feito no curso Seja Full-Stack com .NET Web API e Angular + EF Core</p>
+            <p>Projeto Angular feito no curso Seja Full-Stack com .NET Web API e Angular + EF Core</p>
             <p>HTML - CSS - TS - Angular - C# - Microsoft Dot Net - SQLite</p>
           </div>
           <div class="card">
