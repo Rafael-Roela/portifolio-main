@@ -157,7 +157,6 @@ function projetos(section) {
             <p>Representação da tela de login do facebook</p>
             <p>HTML - CSS - JS</p>
           </div>
-          <div></div>
           <div class="card">
             <h3>Projeto Angular</h3>
             <div class="img-wrapper">
@@ -188,7 +187,6 @@ function projetos(section) {
             <p>Projeto Angulat feito no curso Seja Full-Stack com .NET Web API e Angular + EF Core</p>
             <p>HTML - CSS - TS - Angular - C# - Microsoft Dot Net - SQLite</p>
           </div>
-          <div></div>
           <div class="card">
             <h3>Em breve...</h3>
             <svg
@@ -220,7 +218,6 @@ function projetos(section) {
               />
             </svg>
           </div>
-          <div></div>
         </div>
       </div>`;
   }
