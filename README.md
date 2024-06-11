@@ -1,8 +1,7 @@
-<h1 align="center">Portifólio - Lucyan 💻</h1>
+<h1 align="center">Portifólio - Rafael 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
-<h4 align="center"><a href="https://lucyanovidio.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://rafaelroela.bohr.io/">Confira o projeto aqui</a></h4>
 
 ---
 
@@ -21,7 +20,7 @@ Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
 
 ## 🧠 Tecnologias utilizadas:
 
-O site **ainda está em desenvolvimento**, pois estou em constante aprendizado. Mas até aqui utilizei as tecnologias:
+O site **ainda está em desenvolvimento**, Mas até aqui utilizei as tecnologias:
 
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
